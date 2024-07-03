@@ -1,0 +1,69 @@
+ 
+   
+   body 
+  { 
+    padding:0%;
+    padding-left: 10px;
+    border: 1px solid black;
+    height: 100%;
+    font-family: 'Poppins', sans-serif;  
+  }
+
+  .INFO
+  {
+    display:inline;
+    flex-direction:row;
+    align-items:left;
+    
+  }
+
+  .OBJ
+  {
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .Edu-head
+  {
+    font-size: 20px;
+    font-weight: 600px;
+    background-color:antiquewhite;
+  }
+
+  .table {
+    width: 100%;
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+  .table td 
+  {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  .bord 
+  {
+    border-bottom: 1px solid #ddd;
+  }
+
+.tech-head 
+ {
+    font-size: 20px;
+    font-weight: 600px;
+    background-color:antiquewhite;
+ }
+
+.Tech li 
+ {
+    margin-bottom: 10px;
+ }
+
+ .detailhead
+ {
+    font-size: 20px;
+    font-weight: 600px;
+    background-color:antiquewhite;
+  }
+ 
